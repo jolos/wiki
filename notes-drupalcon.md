@@ -73,11 +73,28 @@ Thing's that will improve in a short timeframe :
 
 FUD :
 -----
-
 - no support !
 -> there's plenty of companies that provide support
 - security
 -> depends on the development team
+-> no 100% secure solutions exist
+
+Advantage:
+----------
+- you can influence the Drupal Roadmap ( company can become a member )
+
+Understanding Web Experience Mgmt
+----------------------------------
+Marketing departments become more important, they're interested in knowing how Drupal can help to build their brand.
+
+Tips :
+------
+- build a requirements score
+- understand the business gap between IT & Marketing
+
+
+
+
     
 
 
