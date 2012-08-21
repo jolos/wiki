@@ -118,6 +118,7 @@ Tips :
     - failure is not acceptable
 - build a relationship -> finding the right people is key
 - Bring demos! Drupal is fast to build smth, use this!
+  ( but make sure it's worth the risk )
 
     
 
