@@ -91,6 +91,9 @@ Tips :
 ------
 - build a requirements score
 - understand the business gap between IT & Marketing
+- make sure you have demos
+
+
 
 
 
