@@ -1,4 +1,4 @@
-Security In Drupal Session
+[Security In Drupal Session](http://munich2012.drupal.org/node/733)
 ==========================
 - first step : identify all user input 
 - most important vulnerabilities : XSS, Access Bypass
@@ -17,5 +17,6 @@ Security In Drupal Session
     - secure_code_review
     - http://github.com/unn/vuln 
     - http://drupalscout.com/node/11
+
 
     
