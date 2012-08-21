@@ -60,10 +60,24 @@ What is a "large enterprise"?
 - Global reach
 - Several Groups involved 
 
-Selling points :
+Drupal's Selling points :
 ----------------
 - flexibility
 	- different approaches
+- high innovation rate
+
+Thing's that will improve in a short timeframe :
+------------------------------------------------
+- improved content authoring ( became more important in the last years )
+- Site preview
+
+FUD :
+-----
+
+- no support !
+-> there's plenty of companies that provide support
+- security
+-> depends on the development team
     
 
 
