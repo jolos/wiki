@@ -93,6 +93,31 @@ Tips :
 - understand the business gap between IT & Marketing
 - make sure you have demos
 
+Panel Selling to large Enterprises:
+===================================
+What is enterprise?
+-------------------
+- more documented processes
+
+Different roles in the sales departement:
+-----------------------------------------
+- marketing monitoring of twitter
+- sales engineers contact leads
+
+bottom-up <> bottom down approach
+
+Tips :
+------
+- know your product, provide value during sales person.
+- technological knowledge is key.
+- Find someone who will be your advocate
+- having enough people is important ( reason for the wunderkraut merge )
+- Things that smaller shops forget :
+	- enterprises don't want to give references
+    - fees for exceeding deadlines
+    - failure is not acceptable
+    
+
 
 
 
