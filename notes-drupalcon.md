@@ -116,6 +116,9 @@ Tips :
 	- enterprises don't want to give references
     - fees for exceeding deadlines
     - failure is not acceptable
+- build a relationship -> finding the right people is key
+- Bring demos! Drupal is fast to build smth, use this!
+
     
 
 
