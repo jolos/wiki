@@ -43,6 +43,31 @@ Advantages:
 - stateless
 - testability
 
+[Selling to large enterprises](http://munich2012.drupal.org/program/sessions/selling-drupal-web-experience-management-large-enterprises-choose-your-battles-and)
+===========================================================================
+by Felipe Rubim chief architect @ Ciandt ( active in US, China and Brasil )
+
+- you have to keep selling Drupal within the enterprise
+- Drupal sales team <> "other" sales team
+
+"The Drupal community should build muscles & strategies"
+- Do your howework
+
+What is a "large enterprise"?
+----------------------------
+- have legacy systems
+- have several integration points with other systems
+- Global reach
+- Several Groups involved 
+
+Selling points :
+----------------
+- flexibility
+	- different approaches
+    
+
+
+
 
 
     
