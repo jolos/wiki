@@ -17,6 +17,32 @@
     - secure_code_review
     - http://github.com/unn/vuln 
     - http://drupalscout.com/node/11
+    
+Functional PHP
+==============
+
+Procedural programming
+-----------------------
+ procedure = reusable series of commands
+
+Declarative programming
+-----------------------
+You don't say how the code should be executed. But what it should do.
+( e.g.  SQL )
+
+Functional Programming
+----------------------
+- pure functions
+- higher-order functions / first-class functions
+- immutable variables
+- recursion 
+
+Advantages:
+- no side-effects
+- explicit function input/output
+- stateless
+- testability
+
 
 
     
