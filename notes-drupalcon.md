@@ -119,7 +119,23 @@ Tips :
 - build a relationship -> finding the right people is key
 - Bring demos! Drupal is fast to build smth, use this!
   ( but make sure it's worth the risk )
+  
 
+Continous Integration with Drupal
+=================================
+- big features -> small steps
+- automate the upgrade process
+- _" if it isn't tested it doesn't work "_
+- start small, refactor later
+- run tests frequently
+- Test in a clone of production
+- you should be able to fully trust this process
+- _" CI is an attitude, not a tool "_
+- drush is your friend
+	- code
+    - files
+    - database ( sql-sync )
+    
     
 
 
