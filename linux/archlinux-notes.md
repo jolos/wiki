@@ -1,0 +1,1 @@
+* If sound is not working, on of the things you should check is wether your user is added to the 'audio' group
